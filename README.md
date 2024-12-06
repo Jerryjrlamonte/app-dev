@@ -1,3 +1,3 @@
 # app-dev
 my first repisotory
-my dream is i want a billionaire 
+our title proposal is "Design of an Interactive Mobile System for Electricity Usage notifications, Online Billing, and Latest Updates"
